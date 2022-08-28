@@ -45,7 +45,7 @@ gbtns.forEach(btn => btn.addEventListener('click', function () {
   if ((player == "Rock")) {
     playerImg.src = 'img/Rock.png';
   } else if (player == "Paper") {
-    playerImg.src = 'img/Paper.png';
+    playerImg.src = 'img/paper.png';
   } else if (player == "Scissor") {
     playerImg.src = 'img/Scissor.png';
   }
