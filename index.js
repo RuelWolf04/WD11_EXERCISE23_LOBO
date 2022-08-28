@@ -141,9 +141,9 @@ function reset() {
 }
 
 function openHistory() {
-  if(list.style.transform === 'translateX(-60%)'){
+  if(list.style.transform === 'translateX(-75%)'){
     list.style.transform = 'translateX(100%)';
-  }else list.style.transform = 'translateX(-60%)'
+  }else list.style.transform = 'translateX(-75%)'
 }
 
 
