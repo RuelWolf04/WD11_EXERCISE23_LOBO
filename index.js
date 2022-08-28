@@ -53,7 +53,7 @@ gbtns.forEach(btn => btn.addEventListener('click', function () {
   if (computer == "Rock") {
     compImg.src = 'img/Rock.png';
   } else if (computer == "Paper") {
-    compImg.src = 'img/Paper.png';
+    compImg.src = 'img/paper.png';
   } else if (computer == "Scissor") {
     compImg.src = 'img/Scissor.png';
   }
